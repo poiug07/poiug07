@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Assan Kozhin. Currently studying CS at City University of Hong Kong. I mostly learn but sometimes work.
+
+I am also [poiug07vsys](https://github.com/poiug07vsys) at VSystems.
+
 <!--
 **poiug07/poiug07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
