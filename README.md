@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hello
 
-I am Assan Kozhin. Currently studying CS at City University of Hong Kong. Learning most of the time.
+I am Assan. Currently studying CS at City University of Hong Kong. Learning most of the time.
 
-Some of my work(previous internship) [poiug07vsys](https://github.com/poiug07vsys).
+Currently Quantitative Developer Intern.
+
+Previously interned as Backend Developer(Core/Backend Team). Some of my work there is open-source projects: [poiug07vsys](https://github.com/poiug07vsys).
 
 <!--
 **poiug07/poiug07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
